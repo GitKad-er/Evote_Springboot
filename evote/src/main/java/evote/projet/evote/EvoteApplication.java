@@ -1,4 +1,4 @@
-package com.projet.evote;
+package evote.projet.evote;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

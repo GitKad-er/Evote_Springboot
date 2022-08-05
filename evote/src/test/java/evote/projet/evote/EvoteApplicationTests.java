@@ -1,4 +1,4 @@
-package com.projet.evote;
+package evote.projet.evote;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
